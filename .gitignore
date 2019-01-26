@@ -18,6 +18,5 @@
 
 ###> symfony/webpack-encore-pack ###
 /node_modules/
-/src/
 
 ###< symfony/webpack-encore-pack ###
